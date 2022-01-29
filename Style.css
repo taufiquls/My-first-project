@@ -16,3 +16,7 @@ h1{
 .half-width img{
     width: 100%;
 }
+p{
+    text-align: center;
+    font-style: italic;
+}
